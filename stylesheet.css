@@ -16,6 +16,10 @@ header {
     width: 100%;
 }
 
+#content {
+    grid-column-start: 2;
+}
+
 #creditList {
     list-style: none;
 }
