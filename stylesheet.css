@@ -8,6 +8,14 @@ header {
     background-color: #6495ed;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 1fr 300px 1fr;
+    grid-template-rows: 1fr;
+    flex: 1;
+    width: 100%;
+}
+
 #creditList {
     list-style: none;
 }
