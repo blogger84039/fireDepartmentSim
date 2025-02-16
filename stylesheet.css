@@ -2,7 +2,7 @@ html, body {
     height: 100%;
 }
 
-#header {
+header {
     width: auto;
     height: 100px;
     background-color: #6495ed;
